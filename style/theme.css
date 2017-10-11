@@ -4,9 +4,9 @@ body {font-family: Verdana,sans-serif;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
+width:100%;
+margin-top: 0px;
+height:400px;
 }
 
 /* Caption text */
@@ -37,7 +37,7 @@ body {font-family: Verdana,sans-serif;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.1s ease;
 }
 
 .active {

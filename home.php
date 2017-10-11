@@ -12,9 +12,6 @@
 		?>
 		<div class="row slaider">
 			<div class="col col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h2>Automatic Slideshow</h2>
-				<p>Change image every 2 seconds:</p>
-
 				<div class="slideshow-container">
 
 					<div class="mySlides fade">
