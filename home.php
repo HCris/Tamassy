@@ -7,36 +7,44 @@
 		<title>My portofolio</title>
 	</head>
 	<body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-	<span class="navbar-toggler-icon"></span>
-	</button>
-	<div class="collapse navbar-collapse" id="navbarNavDropdown">
-	<ul class="navbar-nav">
-	<li class="nav-item active">
-	<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-	</li>
-	<li class="nav-item">
-	<a class="nav-link" href="#">Features</a>
-	</li>
-	<li class="nav-item">
-	<a class="nav-link" href="#">Pricing</a>
-	</li>
-	</ul>
-	<a class="navbar-brand" href="#" style="margin-left: 30%;">Navbar</a>
-	<ul class="navbar-nav" style="margin-left: 43%;">
-	<li class="nav-item active">
-	<a class="nav-link" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-	</li>
-	<li class="nav-item">
-	<a class="nav-link" href="#"><i class="fa fa-github-alt" aria-hidden="true"></i></a>
-	</li>
-	<li class="nav-item">
-	<a class="nav-link" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-	</li>
-	</ul>
-</div>
-</nav>
+		<?php
+		 	include'component/navbar.php';
+		?>
+		<div class="row slaider">
+			<div class="col col-sm-12 col-md-12 col-lg-12 col-xl-12">
+				<h2>Automatic Slideshow</h2>
+				<p>Change image every 2 seconds:</p>
+
+				<div class="slideshow-container">
+
+					<div class="mySlides fade">
+						<div class="numbertext">1 / 3</div>
+						<img src="img/387130-bridges-architectural-wonders-around-the-world-jamsu-bridge-under-the-banpo-bridge-s-korea.jpg" style="width:100%">
+						<div class="text">Caption Text</div>
+					</div>
+
+					<div class="mySlides fade">
+						<div class="numbertext">2 / 3</div>
+						<img src="img/ahmed-hasan-331353.jpg" style="width:100%">
+						<div class="text">Caption Two</div>
+					</div>
+
+					<div class="mySlides fade">
+						<div class="numbertext">3 / 3</div>
+						<img src="img/ahmed-rizkhaan-306766.jpg" style="width:100%">
+						<div class="text">Caption Three</div>
+					</div>
+
+				</div>
+				<br>
+
+				<div style="text-align:center">
+					<span class="dot"></span>
+					<span class="dot"></span>
+					<span class="dot"></span>
+				</div>
+			</div>
+		</div>
 		<?php
 		include 'component/script.php';
 		?>
