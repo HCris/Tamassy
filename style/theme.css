@@ -86,8 +86,8 @@ top:0;
 left:0;
 opacity:0;
 background-color:rgba(0,0,0,0.5);
--webkit-transition:all .4s ease-in-out;
-transition:all .4s ease-in-out
+-webkit-transition:all .1s ease-in-out;
+transition:all .1s ease-in-out
 }
 
 .hovereffect img {
@@ -95,8 +95,8 @@ height: auto;
 width: 100%;
 display:block;
 position:relative;
--webkit-transition:all .4s linear;
-transition:all .4s linear;
+-webkit-transition:all .1s linear;
+transition:all .1s linear;
 }
 
 .hovereffect h2 {
@@ -109,8 +109,8 @@ background:rgba(0,0,0,0.6);
 -webkit-transform:translatey(-100px);
 -ms-transform:translatey(-100px);
 transform:translatey(-100px);
--webkit-transition:all .2s ease-in-out;
-transition:all .2s ease-in-out;
+-webkit-transition:all .1s ease-in-out;
+transition:all .1s ease-in-out;
 padding:10px;
 }
 
@@ -123,8 +123,8 @@ border:1px solid #fff;
 background-color:transparent;
 opacity:0;
 filter:alpha(opacity=0);
--webkit-transition:all .2s ease-in-out;
-transition:all .2s ease-in-out;
+-webkit-transition:all .1s ease-in-out;
+transition:all .1s ease-in-out;
 margin:50px 0 0;
 padding:7px 14px;
 }
@@ -153,6 +153,15 @@ transform:translatey(0);
 }
 
 .hovereffect:hover a.info {
--webkit-transition-delay:.2s;
-transition-delay:.2s;
+-webkit-transition-delay:.1s;
+transition-delay:.1s;
+}
+.full-width-no-bg {
+    padding-top: 42px;
+    margin-bottom: 0;
+    background: white;
+    height: 122px;
+}
+.log img{
+  height:100px;
 }

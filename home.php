@@ -105,7 +105,7 @@
 			</div>
 		</div>
 
-		<div class="row" style="margin-top:-100px;">
+		<div class="row" style="margin-top:-131px;">
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 section_4_home_page">
 				<div class="hovereffect">
 					<img class="img-responsive" src="img/alberto-restifo-95349.jpg" alt="">
@@ -141,7 +141,67 @@
 			</div>
 		</div>
 
-		<div class="row" style="margin-top: -100px;">
+		<div class="row" style="margin-top: -131px;">
+			<div class="col full-width-no-bg">
+				<h1 class="text-center">Featured Clients</h1>
+			</div>
+		</div>
+		<div class="conteiner">
+			<div class="row log">
+				<div class="col-md-1 offset-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+			</div>
+			<div class="row log">
+				<div class="col-md-1 offset-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+				<div class="col-md-1">
+					<img src="img/logo-firma-aiki-seishin-ryu-04.jpg" alt="">
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
 			<div class="col full-width-title dark-bg">
 				<h1>Get in touch!</h1>
 			</div>
